@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+
+    <!-- Pantalla de bienvenida -->
+    <string name="welcome_title">Bienvenido a TaskMaster</string>
+    <string name="welcome_message">Organiza tus tareas diarias de forma eficiente</string>
+
+    <!-- Botones -->
+    <string name="btn_add_task">Agregar Tarea</string>
+    <string name="btn_view_tasks">Ver Tareas</string>
+
+    <!-- Elementos de tarea -->
+    <string name="task_title">Título de la tarea</string>
+    <string name="task_completed">Completada</string>
+    <string name="task_priority">Prioridad</string>
+
+    <!-- Widgets -->
+    <string name="checkbox_label">¿Está completada?</string>
+    <string name="radiobutton_option1">Alta</string>
+    <string name="radiobutton_option2">Media</string>
+    <string name="radiobutton_option3">Baja</string>
+    <string name="progress_label">Progreso</string>
+    <string name="rating_label">Nivel de satisfacción</string>
+
+    <!-- Git -->
+    <string name="git_repo_label">Repositorio del proyecto</string>
+    <string name="git_share_instruction">Comparte el enlace en el Aula Virtual</string>
+</resources>

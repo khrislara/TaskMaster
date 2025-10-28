@@ -1,0 +1,33 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView android:id="@+id/taskTitle"
+            android:text="Título"
+            android:textSize="18sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <CheckBox android:id="@+id/taskCheckBox"
+            android:text="Completada"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <RatingBar android:id="@+id/taskRating"
+            android:numStars="5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:src="@drawable/ic_launcher_foreground"
+            android:layout_width="48dp"
+            android:layout_height="48dp"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

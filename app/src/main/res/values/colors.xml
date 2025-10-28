@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores básicos -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores de interfaz -->
+    <color name="primaryColor">#6200EE</color>         <!-- Color principal de la app -->
+    <color name="primaryDarkColor">#3700B3</color>     <!-- Variante oscura del color principal -->
+    <color name="accentColor">#03DAC5</color>          <!-- Color de acento para botones y elementos destacados -->
+
+    <!-- Colores de fondo y texto -->
+    <color name="backgroundColor">#F5F5F5</color>      <!-- Fondo general de pantallas -->
+    <color name="textColorPrimary">#212121</color>     <!-- Texto principal -->
+    <color name="textColorSecondary">#757575</color>   <!-- Texto secundario -->
+
+    <!-- Colores para estados de tareas -->
+    <color name="completedTaskColor">#4CAF50</color>   <!-- Verde para tareas completadas -->
+    <color name="pendingTaskColor">#FFC107</color>     <!-- Amarillo para tareas pendientes -->
+    <color name="overdueTaskColor">#F44336</color>     <!-- Rojo para tareas vencidas -->
+</resources>
